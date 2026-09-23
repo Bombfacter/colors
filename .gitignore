@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets / server-specific config — never commit real credentials
+.env
+*.pem
+*.key
+secrets.txt
